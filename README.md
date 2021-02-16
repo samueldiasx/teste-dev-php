@@ -12,7 +12,9 @@
 
 3. Executar dentro da pasta **laravel** o código **php artisan migrate** para rodar todas as migrations
 
-4. Executar **php artisan serve**
+4. Executar **npm install**
+
+5. Executar **php artisan serve**
 
 ### Agradeço a oportunidade, aguardo retorno.
 
